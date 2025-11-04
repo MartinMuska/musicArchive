@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: justify;
+    text-decoration: underline;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+.container {
+    max-width: 800px;
+    margin: 1rem auto;
+    padding: 20px;
+    background-color: bisque;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
