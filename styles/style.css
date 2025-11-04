@@ -7,13 +7,19 @@
 h1 {
     text-align: justify;
     text-decoration: underline;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     margin-bottom: 0.5rem;
 }
 .container {
-    max-width: 800px;
+    max-width: 40rem;
     margin: 1rem auto;
-    padding: 20px;
+    padding: 1.5rem;
     background-color: bisque;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
+.band-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    margin-left: 1.1rem;
+}   

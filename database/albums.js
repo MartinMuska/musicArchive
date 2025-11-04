@@ -1,4 +1,4 @@
-const albums = [
+export const albums = [
     { id: "a1", bandName: "The Beatles", title: "Abbey Road", year: 1969, rating: 4},
     { id: "a2", bandName: "The doors", title: "The Doors", year: 1967, rating: 5},
     { id: "a3", bandName: "Gentle Giant", title: "Gentle Giant", year: 1970, rating: 5},

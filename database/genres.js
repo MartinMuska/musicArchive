@@ -1,4 +1,4 @@
-const genres = [
+export const genres = [
     {id: "1", name: "metal", parent: null},
         {id: "1.1", name: "death metal", parent: "1"},   
             {id: "1.1.1", name: "old school death", parent: "1.1"},   

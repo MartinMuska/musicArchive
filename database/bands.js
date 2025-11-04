@@ -1,4 +1,4 @@
-const bands = [
+export const bands = [
     { name: 'Black Sabbath', land: "UK" },
     { name: 'death', land: "US" },
     { name: 'Iron Maiden', land: "UK" },
